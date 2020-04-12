@@ -7,13 +7,13 @@ Mapping profile for simulating Wiimote Motion Plus playing Zelda Skyward's Sword
 - [Dolphin v5.0 Build 11836](https://dolphin-emu.org)
 - [8BidDo SN30/SF30 Pro Controller](https://www.8bitdo.com/sn30-pro-g-classic-or-sn30-pro-sn/)
 
-## 8BitDo Controller Keys Values
+## 8BitDo Controller
 
 ![SN30/SF30 Pro Controller Schema][8bitdocontroller]
 
-[8bitdocontroller]: ./sn30pro-controller.png
+[8bitdocontroller]: ./images/8bitdo-sn30pro-controller.png
 
-#### Buttons, Dpad and Joysticks Values
+### Keys Values
 
 |            | Buttons     |       | Dpad    | Left Joystick | Right Joystick |
 | :--------: | ----------- | :---: | ------- | ------------- | -------------- |
@@ -30,3 +30,11 @@ Mapping profile for simulating Wiimote Motion Plus playing Zelda Skyward's Sword
 | Start (+)  | `Button 10` |
 | Select (-) | `Button 9`  |
 |    Home    | `Button 13` |
+
+## Dolphin Mapping Wiimote Motion Plus
+
+## Game Controls
+
+## Credits
+
+- [Adapted from this topic](https://www.reddit.com/r/DolphinEmulator/comments/chttbu/my_xbox_controller_skyward_sword_controller_map/)
