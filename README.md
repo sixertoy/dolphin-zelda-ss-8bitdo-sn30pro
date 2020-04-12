@@ -1,6 +1,6 @@
 # Dolphin Zelda SS 8BitDo SN30/SF30 Pro Controller
 
-Mapping profile for simulating Wiimote Motion Plus playing Zelda Skyward's Sword with an 8BitDo SN30/SF30 Pro Controller under Dolphin emulator
+> Mapping profile for simulated Wiimote Motion Plus playing Zelda Skyward's Sword with an 8BitDo SN30/SF30 Pro Controller under Dolphin emulator
 
 ## Requirements
 
@@ -13,7 +13,7 @@ Mapping profile for simulating Wiimote Motion Plus playing Zelda Skyward's Sword
 
 [8bitdocontroller]: ./images/8bitdo-sn30pro-controller.png
 
-### Keys Values
+**Values**
 
 |            | Buttons     |       | Dpad    | Left Joystick | Right Joystick |
 | :--------: | ----------- | :---: | ------- | ------------- | -------------- |
@@ -33,7 +33,19 @@ Mapping profile for simulating Wiimote Motion Plus playing Zelda Skyward's Sword
 
 ## Dolphin Mapping Wiimote Motion Plus
 
+> **!!! Do not use calibrate features !!!**
+
+![General and Options](./images/general-and-options.png)
+
+![Motion Simulation](./images/motion-simulation.png)
+
+![Extension](./images/extension.png)
+
+![Extension Motion Simulation](./images/extension-motion-simulation.png)
+
 ## Game Controls
+
+**TODO**
 
 ## Credits
 
