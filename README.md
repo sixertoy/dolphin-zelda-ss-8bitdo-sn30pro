@@ -2,9 +2,22 @@
 
 > Mapping profile for simulated Wiimote Motion Plus playing Zelda Skyward's Sword with an 8BitDo SN30/SF30 Pro Controller under Dolphin emulator
 
+## Quick Links
+
+- [Requirements](#Requirements)
+- [Installation](#Installation)
+- [8BitDo Keys/Values](#8bitdo-sn30sf30-prod-controls)
+- [Dolphin Controller Configuration](#dolphin-mapping-wiimote-motion-plus)
+  - [General and Options](#general-and-options)
+  - [Motion Simulation](#motion-simulation)
+  - [Extension](#extension)
+  - [Extension Motion Simulation](#extension-motion-simulation)
+- [Game Controls](#game-controls)
+- [Credits](#credits)
+
 ## Requirements
 
-- [Dolphin v5.0 Build 11836](https://dolphin-emu.org)
+- [Dolphin v5.0 Build 11836 (development)](https://dolphin-emu.org)
 - [8BidDo SN30/SF30 Pro Controller](https://www.8bitdo.com/sn30-pro-g-classic-or-sn30-pro-sn/)
 
 ## Installation
@@ -12,12 +25,10 @@
 `8BitDo-ZeldaSS-profile.ini` should be copied into Dolphin configuration folder
 
 - Linux `?`
-- MacOS `~/<user>/Library/Application\ Support/Dolphin/Config/Profiles/Wiimote`
+- MacOS `~/Library/Application\ Support/Dolphin/Config/Profiles/Wiimote`
 - Windows `?`
 
-## Controls
-
-#### BitDo SN30/SF30 Prod Controls
+## 8BitDo SN30/SF30 Prod Controls
 
 ![SN30/SF30 Pro Controller Schema](./images/8bitdo-sn30pro-controller.png)
 
@@ -37,21 +48,31 @@
 | Select (-) | `Button 9`  |
 |    Home    | `Button 13` |
 
-#### Dolphin Mapping Wiimote Motion Plus
+## Dolphin Mapping Wiimote Motion Plus
 
 > **!!! Do not use calibrate features !!!**
 
+###### General and options
+
 ![General and Options](./images/general-and-options.png)
+
+###### Motion Simulation
 
 ![Motion Simulation](./images/motion-simulation.png)
 
+###### Extension
+
 ![Extension](./images/extension.png)
+
+###### Extension Motion Simulation
 
 ![Extension Motion Simulation](./images/extension-motion-simulation.png)
 
 ## Game Controls
 
 **TODO**
+
+- Move, Left Joystick
 
 ## Credits
 
