@@ -32,12 +32,12 @@
 
 ![SN30/SF30 Pro Controller Schema](./images/8bitdo-sn30pro-controller.png)
 
-|            | Buttons     |       | Dpad    | Left Joystick | Right Joystick |
-| :--------: | ----------- | :---: | ------- | ------------- | -------------- |
-|     A      | `Button 3`  |  Up   | `Up`    | `Axis Y-`     | `Axis Rz-`     |
-|     B      | `Button 2`  | Down  | `Down`  | `Axis Y+`     | `Axis Rz+`     |
-|     X      | `Button 4`  | Left  | `Left`  | `Axis X-`     | `Axis Z-`      |
-|     Y      | `Button 1`  | Right | `Right` | `Axis X+`     | `Axis Z+`      |
+|            | Buttons     |       | Dpad    | Left Stick | Right Stick |
+| :--------: | ----------- | :---: | ------- | ---------- | ----------- |
+|     A      | `Button 3`  |  Up   | `Up`    | `Axis Y-`  | `Axis Rz-`  |
+|     B      | `Button 2`  | Down  | `Down`  | `Axis Y+`  | `Axis Rz+`  |
+|     X      | `Button 4`  | Left  | `Left`  | `Axis X-`  | `Axis Z-`   |
+|     Y      | `Button 1`  | Right | `Right` | `Axis X+`  | `Axis Z+`   |
 |     L1     | `Button 5`  |
 |     L2     | `Button 7`  |
 |     L3     | `Button 11` |
@@ -70,9 +70,52 @@
 
 ## Game Controls
 
-**TODO**
+#### Basics
 
-- Move, Left Joystick
+| Action                                |     Key      |             Alt              |
+| ------------------------------------- | :----------: | :--------------------------: |
+| Move                                  | `Left Stick` |                              |
+| Cancel                                |     `A`      |                              |
+| Actions<br>(Pick Up, Dash, Dodge ...) |     `B`      |                              |
+| Help                                  |     `X`      |                              |
+| Inventory                             |     `Y`      |                              |
+| Map                                   |   `Start`    |                              |
+| Use Item / Quick Equip Wheel          |   `Select`   |          Long Press          |
+| Look Around                           |     `L2`     |                              |
+| Shield Dash / Forward Roll            |     `L3`     |        while Running         |
+| Targetting                            |     `R2`     | Quick Press to center Camera |
+| Stabbing                              |     `R3`     |                              |
+| Call Fi                               | `D-Pad Down` |                              |
+
+#### Wiimote Modes Togglers
+
+| Action                    | Key  | Alt |
+| ------------------------- | :--: | :-: |
+| Swing Mode                | `L1` |     |
+| Tilt Mode (Swing Motion+) | `R1` |     |
+
+#### Use Sword
+
+| Action          |           Key           |               Alt                |
+| --------------- | :---------------------: | :------------------------------: |
+| Spin Attack     | `L1 + R1 + Right Stick` |     `Up/Dow` or `Left/Right`     |
+| Charge Sword    |    `Right Stick Up`     |                                  |
+| Skyward Strikes |   `L1 + Right Stick`    |          After Charging          |
+| Vertical Slash  |  `R1 + Left Stick Up`   | Use `Down` to do a Revers Strike |
+| Jump Attack     |        `R1 + B`         |          While walking           |
+
+#### When Flying
+
+| Action | Key | Alt |
+| ------ | :-: | :-: |
+| TODO   |     |     |
+
+#### Others Actions
+
+| Action            |             Key             |        Alt         |
+| ----------------- | :-------------------------: | :----------------: |
+| Pick up and Throw | `Right Stick Up/Down + L1`  | Use `B` to Pick up |
+| Climb Faster      | `L1 + Right Strick Up/Down` |                    |
 
 ## Credits
 
