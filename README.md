@@ -24,7 +24,7 @@
 
 `8BitDo-ZeldaSS-profile.ini` should be copied into Dolphin configuration folder
 
-- Linux `?`
+- Linux `~/.config/dolphin-emu/Profiles/Wiimote`
 - MacOS `~/Library/Application\ Support/Dolphin/Config/Profiles/Wiimote`
 - Windows `?`
 
